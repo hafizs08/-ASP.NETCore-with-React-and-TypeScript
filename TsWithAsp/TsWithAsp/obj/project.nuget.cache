@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6IBTOeQ1RrU=",
+  "success": true,
+  "projectFilePath": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\TsWithAsp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hafiz\\.nuget\\packages\\microsoft.typescript.msbuild\\5.5.3\\microsoft.typescript.msbuild.5.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

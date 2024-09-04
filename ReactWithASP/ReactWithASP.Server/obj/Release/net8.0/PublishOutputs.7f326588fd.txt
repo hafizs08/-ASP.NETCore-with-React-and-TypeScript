@@ -1,0 +1,12 @@
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.exe
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.dll
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.deps.json
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.runtimeconfig.json
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\ReactWithASP.Server.pdb
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\ReactWithASP.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

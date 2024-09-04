@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\src\\app\\components\\player-form\\player-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\player-form\\player-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\src\\app\\components\\player-form\\player-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\player-form\\player-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\src\\app\\services\\player.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\services\\player.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\src\\app\\components\\player-list\\player-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\player-list\\player-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.client\\src\\app\\components\\player-list\\player-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E7955E0-CC4F-43A3-8606-06A66FB6E9EA}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\components\\player-list\\player-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.server\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.server\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.server\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.server\\services\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\services\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\aspwithangular\\angularapp1\\angularapp1.server\\data\\footballdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191FB1FA-11EC-4672-A28E-1D6C311B733A}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\data\\footballdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hafiz\\AppData\\Roaming\\Microsoft\\UserSecrets\\201a955e-f50c-4826-9429-00761e0a4c24\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.html",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-03T20:00:15.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "player.service.ts",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\services\\player.service.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\services\\player.service.ts",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\services\\player.service.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\services\\player.service.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T19:09:44.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\appsettings.json",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\appsettings.json",
+              "RelativeToolTip": "AngularApp1.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T08:05:01.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Program.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:25:01.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.module.ts",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T19:14:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T19:11:40.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\WeatherForecast.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "AngularApp1.Server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:05:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "angular.json",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeDocumentMoniker": "angularapp1.client\\angular.json",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\angular.json",
+              "RelativeToolTip": "angularapp1.client\\angular.json",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwCgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T18:54:07.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "player-form.component.html",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\components\\player-form\\player-form.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\player-form\\player-form.component.html",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\components\\player-form\\player-form.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\player-form\\player-form.component.html",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-03T19:17:47.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.ts",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T19:30:18.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "player-form.component.ts",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\components\\player-form\\player-form.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\player-form\\player-form.component.ts",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\components\\player-form\\player-form.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\player-form\\player-form.component.ts",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T19:18:03.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "player-list.component.ts",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\components\\player-list\\player-list.component.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\player-list\\player-list.component.ts",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\components\\player-list\\player-list.component.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\player-list\\player-list.component.ts",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T19:10:58.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "player-list.component.html",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\components\\player-list\\player-list.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\components\\player-list\\player-list.component.html",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\angularapp1.client\\src\\app\\components\\player-list\\player-list.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\components\\player-list\\player-list.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-03T19:11:17.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\PlayersController.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:59:45.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Services\\PlayerService.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Services\\PlayerService.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Services\\PlayerService.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Services\\PlayerService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA5wBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:54:48.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPlayerService.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Services\\IPlayerService.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Services\\IPlayerService.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Services\\IPlayerService.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Services\\IPlayerService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:33:00.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AngularApp1.Server",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\AngularApp1.Server.csproj",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+              "RelativeToolTip": "AngularApp1.Server\\AngularApp1.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T16:32:07.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Models\\Position.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Models\\Position.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:31:54.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FootballDbContext.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Data\\FootballDbContext.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Data\\FootballDbContext.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\AspWithAngular\\AngularApp1\\AngularApp1.Server\\Data\\FootballDbContext.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Data\\FootballDbContext.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:03:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\hafiz\\AppData\\Roaming\\Microsoft\\UserSecrets\\201a955e-f50c-4826-9429-00761e0a4c24\\secrets.json",
+              "ToolTip": "C:\\Users\\hafiz\\AppData\\Roaming\\Microsoft\\UserSecrets\\201a955e-f50c-4826-9429-00761e0a4c24\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T10:09:43.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

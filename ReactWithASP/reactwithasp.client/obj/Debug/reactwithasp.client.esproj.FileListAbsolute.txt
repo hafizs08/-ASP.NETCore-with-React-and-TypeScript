@@ -1,0 +1,1 @@
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\ReactWithASP\reactwithasp.client\obj\Debug\reactwithasp.client.esproj.CoreCompileInputs.cache

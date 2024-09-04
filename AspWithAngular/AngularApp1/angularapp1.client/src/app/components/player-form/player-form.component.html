@@ -1,0 +1,25 @@
+<div class="container mt-4">
+  <h2>{{ isEditMode ? 'Edit Player' : 'Add New Player' }}</h2>
+  <form (ngSubmit)="onSubmit()" #playerForm="ngForm">
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" id="name" class="form-control" [(ngModel)]="player.name" name="name" required>
+    </div>
+    <div class="form-group">
+      <label for="shirtNo">Shirt No</label>
+      <input type="number" id="shirtNo" class="form-control" [(ngModel)]="player.shirtNo" name="shirtNo" required>
+    </div>
+    <div class="form-group">
+      <label for="positionId">Position</label>
+      <select id="positionId" class="form-control" [(ngModel)]="player.positionId" name="positionId" required>
+        <option *ngFor="let position of positions" [value]="position.id">{{ position.name }}</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="nationality">Nationality</label>
+      <input type="text" id="nationality" class="form-control" [(ngModel)]="player.nationality" name="nationality" required>
+    </div>
+    <button type="submit" class="btn btn-success">{{ isEditMode ? 'Update' : 'Add' }} Player</button>
+    <button type="button" class="btn btn-secondary" (click)="cancel()">Cancel</button>
+  </form>
+</div>

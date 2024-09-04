@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\tswithasp\\tswithasp\\models\\scripts\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|solutionrelative:tswithasp\\models\\scripts\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\tswithasp\\tswithasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|solutionrelative:tswithasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\tswithasp\\tswithasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|solutionrelative:tswithasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\tswithasp\\tswithasp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|solutionrelative:tswithasp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\tswithasp\\tswithasp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1CFCBE03-1335-4083-96D0-D342F31DCBE9}|TsWithAsp\\TsWithAsp.csproj|solutionrelative:tswithasp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TsWithAsp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TsWithAsp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:45:47.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TsWithAsp\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TsWithAsp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T10:58:36.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.ts",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\Models\\scripts\\main.ts",
+              "RelativeDocumentMoniker": "TsWithAsp\\Models\\scripts\\main.ts",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\Models\\scripts\\main.ts",
+              "RelativeToolTip": "TsWithAsp\\Models\\scripts\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-28T10:07:39.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\tsconfig.json",
+              "RelativeDocumentMoniker": "TsWithAsp\\tsconfig.json",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\tsconfig.json",
+              "RelativeToolTip": "TsWithAsp\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T10:01:42.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TsWithAsp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\TsWithAsp\\TsWithAsp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TsWithAsp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:49:40.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

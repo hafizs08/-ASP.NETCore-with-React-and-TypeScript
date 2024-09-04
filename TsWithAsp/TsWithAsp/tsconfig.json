@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "./wwwroot/js", // Tempat output file JavaScript hasil kompilasi
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "Models/scripts/**/*" // Mengarahkan TypeScript untuk mencari file di dalam folder Models/scripts
+  ],
+  "exclude": [
+    "node_modules",
+    "wwwroot/js"
+  ]
+}
