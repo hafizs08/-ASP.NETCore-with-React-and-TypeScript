@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\postappservice\\postappservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|solutionrelative:postappservice\\postappservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\postappservice\\data\\postappservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|solutionrelative:postappservice\\data\\postappservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\postappservice\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|solutionrelative:postappservice\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\postappservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|solutionrelative:postappservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\microservices\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|solutionrelative:microservices\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\microservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|solutionrelative:microservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\microservices\\data\\userappservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|solutionrelative:microservices\\data\\userappservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\microservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|solutionrelative:microservices\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\postappservice\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|solutionrelative:postappservice\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\postappservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75543D5-815E-41E4-BACE-EFAF0219B115}|PostAppService\\PostAppService.csproj|solutionrelative:postappservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\microservices\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|solutionrelative:microservices\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\microservices\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|solutionrelative:microservices\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\microservices\\user.db-wal||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|solutionrelative:microservices\\user.db-wal||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|d:\\githubbandung\\-asp.netcore-with-react-and-typescript\\rabbit\\netmicroservices\\microservices\\user.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8628C61F-9E9E-424C-9B98-F75991985F8C}|microservices\\microservices.csproj|solutionrelative:microservices\\user.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostAppService",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\PostAppService.csproj",
+              "RelativeDocumentMoniker": "PostAppService\\PostAppService.csproj",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\PostAppService.csproj",
+              "RelativeToolTip": "PostAppService\\PostAppService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T20:13:37.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Controllers\\PostController.cs",
+              "RelativeToolTip": "PostAppService\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:28:25.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAppServiceContext.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Data\\UserAppServiceContext.cs",
+              "RelativeDocumentMoniker": "microservices\\Data\\UserAppServiceContext.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Data\\UserAppServiceContext.cs",
+              "RelativeToolTip": "microservices\\Data\\UserAppServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:15:38.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostAppServiceContext.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Data\\PostAppServiceContext.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Data\\PostAppServiceContext.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Data\\PostAppServiceContext.cs",
+              "RelativeToolTip": "PostAppService\\Data\\PostAppServiceContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:25:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Program.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Program.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Program.cs",
+              "RelativeToolTip": "PostAppService\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:26:28.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "microservices\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Controllers\\UserController.cs",
+              "RelativeToolTip": "microservices\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:24:38.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Program.cs",
+              "RelativeDocumentMoniker": "microservices\\Program.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Program.cs",
+              "RelativeToolTip": "microservices\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:18:32.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Models\\User.cs",
+              "RelativeDocumentMoniker": "microservices\\Models\\User.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Models\\User.cs",
+              "RelativeToolTip": "microservices\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:56:59.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Models\\Post.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Models\\Post.cs",
+              "RelativeToolTip": "PostAppService\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:23:50.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PostAppService\\Models\\User.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\PostAppService\\Models\\User.cs",
+              "RelativeToolTip": "PostAppService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:22:28.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "microservices\\Models\\Post.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Models\\Post.cs",
+              "RelativeToolTip": "microservices\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:49:29.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "user.db",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\user.db",
+              "RelativeDocumentMoniker": "microservices\\user.db",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\user.db",
+              "RelativeToolTip": "microservices\\user.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-08T09:28:42.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "user.db-wal",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\user.db-wal",
+              "RelativeDocumentMoniker": "microservices\\user.db-wal",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\user.db-wal",
+              "RelativeToolTip": "microservices\\user.db-wal",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-08T09:28:47.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "microservices\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\GithubBandung\\-ASP.NETCore-with-React-and-TypeScript\\rabbit\\NETMicroservices\\microservices\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "microservices\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:17:15.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

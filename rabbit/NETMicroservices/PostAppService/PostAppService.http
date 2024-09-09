@@ -1,0 +1,6 @@
+@PostAppService_HostAddress = http://localhost:5197
+
+GET {{PostAppService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
