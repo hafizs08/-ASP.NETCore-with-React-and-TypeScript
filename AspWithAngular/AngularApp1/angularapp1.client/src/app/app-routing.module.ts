@@ -6,7 +6,7 @@ import { PlayerFormComponent } from './components/player-form/player-form.compon
 const routes: Routes = [
   { path: '', component: PlayerListComponent },
   { path: 'add-player', component: PlayerFormComponent },
-  { path: 'edit-player/:id', component: PlayerFormComponent },
+  { path: 'edit-player/:id', component: PlayerFormComponent }
 ];
 
 @NgModule({

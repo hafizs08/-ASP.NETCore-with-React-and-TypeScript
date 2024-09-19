@@ -1,21 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace AngularApp1.Server.Models;
-
-public partial class Player
+namespace AngularApp1.Server.Models
 {
-    public int Id { get; set; }
+    public class Player
+    {
+        public int Id { get; set; }
 
-    public int ShirtNo { get; set; }
+        [Required(ErrorMessage = "Nama pemain harus diisi.")]
+        [StringLength(100, ErrorMessage = "Nama maksimal 100 karakter.")]
+        public string Name { get; set; }
 
-    public string Name { get; set; } = null!;
+        [Range(1, 99, ErrorMessage = "Nomor harus antara 1 hingga 99.")]
+        public int Number { get; set; }
 
-    public int? PositionId { get; set; }
-
-    public int? Appearances { get; set; }
-
-    public string? Nationality { get; set; }
-
-    public virtual Position? Position { get; set; }
+        [Required(ErrorMessage = "Posisi harus diisi.")]
+        [StringLength(50, ErrorMessage = "Posisi maksimal 50 karakter.")]
+        public string Position { get; set; }
+    }
 }

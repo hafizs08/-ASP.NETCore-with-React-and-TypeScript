@@ -1,29 +1,27 @@
 <div class="container mt-4">
-  <h2 class="text-center mb-4">Player List</h2>
+  <h2 class="text-center mb-4">Daftar Pemain</h2>
   <table class="table table-striped">
     <thead class="thead-dark">
       <tr>
         <th>#</th>
-        <th>Name</th>
-        <th>Shirt No</th>
-        <th>Position</th>
-        <th>Nationality</th>
-        <th>Actions</th>
+        <th>Nama</th>
+        <th>Nomor</th>
+        <th>Posisi</th>
+        <th>Aksi</th>
       </tr>
     </thead>
     <tbody>
       <tr *ngFor="let player of players; let i = index">
         <td>{{ i + 1 }}</td>
         <td>{{ player.name }}</td>
-        <td>{{ player.shirtNo }}</td>
-        <td>{{ player.positionId }}</td>
-        <td>{{ player.nationality }}</td>
+        <td>{{ player.number }}</td>
+        <td>{{ player.position }}</td>
         <td>
           <button class="btn btn-warning btn-sm" (click)="editPlayer(player)">Edit</button>
-          <button class="btn btn-danger btn-sm" (click)="deletePlayer(player.id)">Delete</button>
+          <button class="btn btn-danger btn-sm" (click)="deletePlayer(player.id)">Hapus</button>
         </td>
       </tr>
     </tbody>
   </table>
-  <button class="btn btn-primary" (click)="addNewPlayer()">Add New Player</button>
+  <button class="btn btn-primary" (click)="addNewPlayer()">Tambah Pemain Baru</button>
 </div>

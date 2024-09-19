@@ -1,15 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-namespace AngularApp1.Server.Models;
-
-public partial class Position
+namespace AngularApp1.Server.Models
 {
-    public int Id { get; set; }
-
-    public string Name { get; set; } = null!;
-
-    public string? Description { get; set; }
-
-    public virtual ICollection<Player> Players { get; set; } = new List<Player>();
+    public class Position
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        // Remove or comment out the collection of Players
+        // public ICollection<Player> Players { get; set; }
+    }
 }

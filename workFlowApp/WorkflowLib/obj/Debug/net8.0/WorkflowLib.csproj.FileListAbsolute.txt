@@ -1,0 +1,13 @@
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\bin\Debug\net8.0\WorkflowLib.deps.json
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\bin\Debug\net8.0\WorkflowLib.dll
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\bin\Debug\net8.0\WorkflowLib.pdb
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.AssemblyInfoInputs.cache
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.AssemblyInfo.cs
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.csproj.CoreCompileInputs.cache
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.sourcelink.json
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.dll
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\refint\WorkflowLib.dll
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.pdb
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\ref\WorkflowLib.dll
+D:\GithubBandung\-ASP.NETCore-with-React-and-TypeScript\workFlowApp\WorkflowLib\obj\Debug\net8.0\WorkflowLib.csproj.AssemblyReference.cache

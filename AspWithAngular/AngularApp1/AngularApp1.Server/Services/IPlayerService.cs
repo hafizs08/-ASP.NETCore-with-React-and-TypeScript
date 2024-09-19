@@ -9,7 +9,7 @@ namespace AngularApp1.Server.Services
         Task<IEnumerable<Player>> GetPlayersAsync();
         Task<Player> GetPlayerByIdAsync(int id);
         Task<Player> AddPlayerAsync(Player player);
-        Task<Player> UpdatePlayerAsync(Player player);
-        Task DeletePlayerAsync(int id);
+        Task<bool> UpdatePlayerAsync(Player player);
+        Task<bool> DeletePlayerAsync(int id);
     }
 }

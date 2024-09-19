@@ -1,25 +1,58 @@
 <div class="container mt-4">
-  <h2>{{ isEditMode ? 'Edit Player' : 'Add New Player' }}</h2>
-  <form (ngSubmit)="onSubmit()" #playerForm="ngForm">
+  <h2>{{ isEditMode ? 'Edit Pemain' : 'Tambah Pemain Baru' }}</h2>
+  <form #playerForm="ngForm" (ngSubmit)="onSubmit(playerForm)">
     <div class="form-group">
-      <label for="name">Name</label>
-      <input type="text" id="name" class="form-control" [(ngModel)]="player.name" name="name" required>
+      <label for="name">Nama</label>
+      <input type="text"
+             id="name"
+             class="form-control"
+             name="name"
+             [(ngModel)]="player.name"
+             required
+             maxlength="100"
+             #name="ngModel"
+             [ngClass]="{'is-invalid': name.invalid && (name.dirty || name.touched)}">
+      <div *ngIf="name.invalid && (name.dirty || name.touched)" class="invalid-feedback">
+        Nama pemain harus diisi dan maksimal 100 karakter.
+      </div>
     </div>
+
     <div class="form-group">
-      <label for="shirtNo">Shirt No</label>
-      <input type="number" id="shirtNo" class="form-control" [(ngModel)]="player.shirtNo" name="shirtNo" required>
+      <label for="number">Nomor</label>
+      <input type="number"
+             id="number"
+             class="form-control"
+             name="number"
+             [(ngModel)]="player.number"
+             required
+             min="1"
+             max="99"
+             #number="ngModel"
+             [ngClass]="{'is-invalid': number.invalid && (number.dirty || number.touched)}">
+      <div *ngIf="number.invalid && (number.dirty || number.touched)" class="invalid-feedback">
+        Nomor harus antara 1 hingga 99.
+      </div>
     </div>
+
     <div class="form-group">
-      <label for="positionId">Position</label>
-      <select id="positionId" class="form-control" [(ngModel)]="player.positionId" name="positionId" required>
-        <option *ngFor="let position of positions" [value]="position.id">{{ position.name }}</option>
-      </select>
+      <label for="position">Posisi</label>
+      <input type="text"
+             id="position"
+             class="form-control"
+             name="position"
+             [(ngModel)]="player.position"
+             required
+             maxlength="50"
+             #position="ngModel"
+             [ngClass]="{'is-invalid': position.invalid && (position.dirty || position.touched)}">
+      <div *ngIf="position.invalid && (position.dirty || position.touched)" class="invalid-feedback">
+        Posisi harus diisi dan maksimal 50 karakter.
+      </div>
     </div>
-    <div class="form-group">
-      <label for="nationality">Nationality</label>
-      <input type="text" id="nationality" class="form-control" [(ngModel)]="player.nationality" name="nationality" required>
-    </div>
-    <button type="submit" class="btn btn-success">{{ isEditMode ? 'Update' : 'Add' }} Player</button>
-    <button type="button" class="btn btn-secondary" (click)="cancel()">Cancel</button>
+
+    <button type="submit" class="btn btn-success" [disabled]="playerForm.invalid">
+      {{ isEditMode ? 'Perbarui' : 'Tambah' }} Pemain
+    </button>
+    <button type="button" class="btn btn-secondary" (click)="cancel()">Batal</button>
   </form>
 </div>
